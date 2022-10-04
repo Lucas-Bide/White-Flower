@@ -1,0 +1,19 @@
+outer: red-200
+inner: rose-600
+inner shadow: red-800
+
+text: red-200
+
+herotext bg: rose-800
+
+imagecard:
+ shadow: red-400
+ bg: rose-800
+ shadow: red-400
+
+ gallery buttons:
+ bg: rose-800
+ shadow: red-400
+
+ disabled/active bg: rose-900
+
